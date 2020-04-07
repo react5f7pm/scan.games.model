@@ -1,0 +1,1 @@
+# scan.games.model
