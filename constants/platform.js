@@ -2,10 +2,9 @@ const PLATFORM = {
   STEAM: {
     id: 'STEAM',
     name: 'Steam',
-    homePage: '',
-    description: '',
-    createDate: Date.now(), // ???
+    homePage: 'https://store.steampowered.com/',
+    detailUrl: 'https://store.steampowered.com/app/',
   },
 }
 
-export default PLATFORM;
+export default PLATFORM
